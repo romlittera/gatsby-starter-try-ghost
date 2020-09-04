@@ -1,0 +1,2 @@
+# Redirects from what the browser requests to what we serve
+/tag/blog/* https://blog-romlittera.herokuapp.com/tag/blog/:splat 200!
