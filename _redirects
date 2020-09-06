@@ -1,3 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/tag/blog/* https://blog-romlittera.herokuapp.com/tag/blog/:splat 200!
-/blog/* https://blog-romlittera.herokuapp.com/blog/:splat 200!
+/* https://blog-romlittera.herokuapp.com/:splat 200!
