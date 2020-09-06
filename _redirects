@@ -1,2 +1,4 @@
 # Redirects from what the browser requests to what we serve
-/* https://blog-romlittera.netlify.app/:splat 200!
+https://romlittera.herokuapp.com/tag/blog/ https://blog-romlittera.herokuapp.com/tag/blog/ 200!
+http://romlittera.herokuapp.com/tag/blog/ http://blog-romlittera.herokuapp.com/tag/blog/ 200!
+
